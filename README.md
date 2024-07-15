@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanng9672&label=Profile%20views&color=0e75b6&style=flat" alt="ryanng9672" /> </p>
 
-- 🌱 I’m currently learning **AB test ,Flask and backend,airflow**
+- 🌱 I’m currently learning **django**
 
 - 📫 How to reach me **ryanngyh72@hotmail.com**
 
